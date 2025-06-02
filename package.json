@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "child-process-promise": "^2.2.1"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "851114143104",
+    "project_id": "your-stock-project",
+    "storage_bucket": "your-stock-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851114143104:android:f07d4b615602c4daefa565",
+        "android_client_info": {
+          "package_name": "eg.Almoghair.yourstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851114143104-a5add3c0hgqogbgb0cbc01cq0vu6fnfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eg.Almoghair.yourstock",
+            "certificate_hash": "af9efe377952a854d8f3a351cb2f2219787746b4"
+          }
+        },
+        {
+          "client_id": "851114143104-fv6881n1tqavq0l11ecqls9bg7l46d8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oZujYTH0Wl1D225TX35YvjzRfllQgfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851114143104-4tf538mshups3iu8l4un07bsovonkrc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851114143104-jio2n74dbcsaangmee42ti5okqf7gg33.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eg.Almoghair.yourstock"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
